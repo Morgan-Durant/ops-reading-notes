@@ -1,4 +1,4 @@
-#ReadingResearchandDiscussion#1
+#ReadingResearchandDiscussion#1.md
 
 This topic relates to what I am studying because it is a real-world example of what hackers are capable of and what resulted. It also describes how it was able to be achieved. 
 
