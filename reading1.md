@@ -4,7 +4,7 @@ This topic relates to what I am studying because it is a real-world example of w
 
 ## Chinas Spy Chip 
 
-How is a hardware hack different from a software hack? Unlike software hacks, hardware hacks leave a real-world trail or footprints; they can be more devastating and grant hackers long-term access.  
+- How is a hardware hack different from a software hack? Unlike software hacks, hardware hacks leave a real-world trail or footprints; they can be more devastating and grant hackers long-term access.  
 
 - What are two ways spies alter hardware? Spies can alter hardware by a seeding attack or interdiction. 
 
