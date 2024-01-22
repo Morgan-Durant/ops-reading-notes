@@ -1,8 +1,7 @@
-#ReadingResearchandDiscussion#1.md
-
+#Reading Research and Discussion 1
 This topic relates to what I am studying because it is a real-world example of what hackers are capable of and what resulted. It also describes how it was able to be achieved. 
 
-##ChinasSpyChip 
+##Chinas Spy Chip 
 How is a hardware hack different from a software hack? Unlike software hacks, hardware hacks leave a real-world trail or footprints; they can be more devastating and grant hackers long-term access.  
 
 -What are two ways spies alter hardware? Spies can alter hardware by a seeding attack or interdiction. 
@@ -13,7 +12,8 @@ How is a hardware hack different from a software hack? Unlike software hacks, ha
 
 -Information from: https://web.archive.org/web/20190330085155/https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies
 
-#ThingsIWantToKnowMoreAbout 
+#Things I Want ToKnow MoreA bout 
+
 Is there already something consumers can buy that can detect hardware tampering? 
 Coding
 How I can use knowledge of cybersecurity and computers to help others
