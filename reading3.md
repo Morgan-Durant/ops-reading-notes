@@ -10,6 +10,7 @@ The booting process is an opportunity for diagnosis before power is handed off t
 POST is the test the BIOS performs everytime your PC is powerd on to check if the essential hardware components of the CPU are working effeciently.  
 
 ## - What is the CMOS?
+CMOS stands for Complementary Metal Oxide Semiconductor. It's an IC (integrated circuit) chip on the motherboard that stores the critical data used by the OS during the booting process. 
 
 ## - What is the CMOS battery? 
 The CMOS battery allows CMOS to run all together. It is like the power-switch. Removing the battery and placing it back in will cause a system re-boot. 
