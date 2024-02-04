@@ -3,7 +3,7 @@
 ## -What is Ubuntu?
 Ubuntu is a desktop Linux operating system. It's free to modify and install.
 
-##- Why would you choose to install the LTS version over regular Ubuntu releases?
+## - Why would you choose to install the LTS version over regular Ubuntu releases?
 The LTS version has a longer support period of five years and regular realeases about every six months, you won't have to upgrade often. 
 
 ## -What is the Ubuntu GNOME Shell?
