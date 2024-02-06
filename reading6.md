@@ -27,6 +27,10 @@
 ## Does the WRT54GL model still get updates from Linksys?
 - Yes, the WRT54GL model still gets updates from time to time.
 
+- Sources: [
+](https://arstechnica.com/information-technology/2016/07/the-wrt54gl-a-54mbps-router-from-2005-still-makes-millions-for-linksys/)https://arstechnica.com/information-technology/2016/07/the-wrt54gl-a-54mbps-router-from-2005-still-makes-millions-for-linksys/
+
+
 ## Things I Want To Know More About 
 - Other router models
 - Router capabilites 
