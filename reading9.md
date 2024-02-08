@@ -14,6 +14,13 @@ to execute commands that are entered.
 - A Microsoft terminal application. It differs from command prompt and Powershell because it is a single program and offers
   unique features.
 
+# Sources: 
+[
+](https://www.lifewire.com/windows-terminal-4779951) [
+](https://www.lifewire.com/command-prompt-2625840)
+
+
   # Things I Want To Know More About
   -Commands of all interfaces
   Interface customization 
+
