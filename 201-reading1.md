@@ -22,7 +22,7 @@ Typing rstrui.exe into the command prompt will start a system restore.
 - Use DISM (Deployment Image Servicing and Management)
 
   Sources:
-[](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131)
+  (https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131)
 
 
   # Things I Want To Know More About
